@@ -1,0 +1,10 @@
+[TRACE] 2020-03-04 15:43:21.323 [main] Log4j - This Is an Trace Messages
+[INFO ] 2020-03-04 15:43:21.326 [main] Log4j - This is an Information Messages
+[WARN ] 2020-03-04 15:43:21.327 [main] Log4j - This is an warn Message
+[ERROR] 2020-03-04 15:43:21.327 [main] Log4j - This is an Error Message
+[FATAL] 2020-03-04 15:43:21.327 [main] Log4j - This is an fatal Message
+[TRACE] 2020-03-04 17:45:52.610 [main] Log4j - This Is an Trace Messages
+[INFO ] 2020-03-04 17:45:52.614 [main] Log4j - This is an Information Messages
+[WARN ] 2020-03-04 17:45:52.614 [main] Log4j - This is an warn Message
+[ERROR] 2020-03-04 17:45:52.614 [main] Log4j - This is an Error Message
+[FATAL] 2020-03-04 17:45:52.614 [main] Log4j - This is an fatal Message
